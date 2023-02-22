@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Extension",
+    "description": "This is an extension for YouTube to play video in FullScreen",
+    "version": "1.0",
+    "author": "Nandini Chhajed",
+    "content_scripts": [
+        {
+            "css": ["styles.css"],
+            "matches": [
+                "https://www.youtube.com/*"
+            ]
+        }
+    ]
+}
