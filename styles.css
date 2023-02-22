@@ -1,0 +1,20 @@
+html{
+    overflow: hidden;
+}
+
+#masthead-container{
+    display: none !important;
+}
+
+#below{
+    display: none !important;
+}
+
+#player{
+    height: 100%;
+    width: 100%;
+}
+
+#secondary{
+    display: none !important;
+}
