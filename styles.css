@@ -9,20 +9,18 @@ html{
 #below{
     display: none !important;
 }
+#above-the-fold{
+    display: none !important;
+}
 
-#player{
-    height: 100%;
-    width: 100%;
+#clarify-box{
+    display: none !important;
 }
 
 #secondary{
     display: none !important;
 }
 
-#primary-inner{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
+/* height and width of full screen */
+/* width: 1164px; 
+height: 655px;  */
