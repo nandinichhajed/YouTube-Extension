@@ -4,6 +4,9 @@
     "description": "This is an extension for YouTube to play video in FullScreen",
     "version": "1.0",
     "author": "Nandini Chhajed",
+    "icons": {
+        "128": "./Images/youtube.png"
+      },
     "content_scripts": [
         {
             "css": ["styles.css"],

@@ -2,22 +2,8 @@ html{
     overflow: hidden;
 }
 
-#masthead-container{
-    display: none !important;
-}
-
-#below{
-    display: none !important;
-}
-#above-the-fold{
-    display: none !important;
-}
-
-#clarify-box{
-    display: none !important;
-}
-
-#secondary{
+#masthead-container, #below, #above-the-fold, 
+#clarify-box, #secondary{
     display: none !important;
 }
 
