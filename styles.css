@@ -7,6 +7,19 @@ html{
     display: none !important;
 }
 
+/* #primary{
+  width: 100%;
+  border: 2px solid white;
+}
+
+#primary-inner{
+  width: 100%;
+  border: 2px solid white;
+} */
+
+#columns{
+  position: absolute; inset: 0px; pointer-events: none; transform: scale(1.5, 2);
+}
 /* height and width of full screen */
 /* width: 1164px; 
 height: 655px;  */
