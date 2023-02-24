@@ -1,9 +1,13 @@
-html{
+html {
     overflow: hidden;
 }
 
-#masthead-container, #below, #above-the-fold, 
-#clarify-box, #secondary, #info-container{
+#masthead-container,
+#below,
+#above-the-fold,
+#clarify-box,
+#secondary,
+#info-container {
     display: none !important;
 }
 
@@ -17,8 +21,12 @@ html{
   border: 2px solid white;
 } */
 
-#columns{
-  position: absolute; inset: 0px; pointer-events: none; transform: scale(1.5, 2);
+#columns {
+    position: absolute;
+    inset: 0px;
+    pointer-events: none;
+    transform: scale(1.6, 1.4);
+    top: 100px;
 }
 /* height and width of full screen */
 /* width: 1164px; 
