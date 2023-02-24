@@ -3,7 +3,7 @@ html{
 }
 
 #masthead-container, #below, #above-the-fold, 
-#clarify-box, #secondary{
+#clarify-box, #secondary, #info-container{
     display: none !important;
 }
 
