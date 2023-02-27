@@ -1,6 +1,6 @@
 # YouTube-Extension
 
-A YouTUbe Extension to play video in full screen mode.
+A YouTube Extension to play video in full screen mode.
 
 ## Technology used:
 - CSS
