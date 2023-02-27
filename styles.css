@@ -1,33 +1,22 @@
-html {
+html{
     overflow: hidden;
 }
 
-#masthead-container,
-#below,
-#above-the-fold,
-#clarify-box,
-#secondary,
-#info-container {
+#masthead-container, #below, #above-the-fold, 
+#clarify-box, #secondary, #info-container{
     display: none !important;
 }
 
-/* #primary{
-  width: 100%;
-  border: 2px solid white;
+#columns{
+  position: absolute; 
+  inset: 0px; 
+  pointer-events: none; 
+  transform: scale(1.4, 1.29);
+  top: 100px;
 }
 
-#primary-inner{
-  width: 100%;
-  border: 2px solid white;
-} */
-
-#columns {
-    position: absolute;
-    inset: 0px;
-    pointer-events: none;
-    transform: scale(1.6, 1.4);
-    top: 100px;
-}
-/* height and width of full screen */
-/* width: 1164px; 
-height: 655px;  */
+/*
+height and width of full screen 
+      width: 1164px; 
+      height: 655px;  
+*/
