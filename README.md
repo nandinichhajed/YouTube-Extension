@@ -14,6 +14,7 @@ git clone https://github.com/nandinichhajed/YouTube-Extension.git
 2. Go to: [chrome://extensions/](https://chrome://extensions/)
 3. Turn on Developer Mode
 4. Go to Load Unpacked and upload the folder YouTube-Extension
+5. open YouTube and play the video the video will be in full-screen mode
 - yeah! you are good to go with your YouTube video in full screen.
 
 ## Have a Look!
